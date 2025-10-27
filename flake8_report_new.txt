@@ -1,0 +1,6 @@
+cleaned_inventory_system.py:24:80: E501 line too long (84 > 79 characters)
+cleaned_inventory_system.py:27:80: E501 line too long (85 > 79 characters)
+cleaned_inventory_system.py:39:80: E501 line too long (87 > 79 characters)
+cleaned_inventory_system.py:42:80: E501 line too long (88 > 79 characters)
+cleaned_inventory_system.py:69:80: E501 line too long (82 > 79 characters)
+cleaned_inventory_system.py:72:80: E501 line too long (81 > 79 characters)
