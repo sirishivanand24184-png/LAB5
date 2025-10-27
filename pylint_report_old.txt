@@ -1,0 +1,4 @@
+************* Module inventory_system_sytax
+inventory_system_sytax:1:0: F0001: No module named inventory_system_sytax (fatal)
+************* Module fixed.py
+fixed.py:1:0: F0001: No module named fixed.py (fatal)
